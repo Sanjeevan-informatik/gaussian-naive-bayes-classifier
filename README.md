@@ -1,3 +1,9 @@
+
+1.this  Naive Bayes Classifier was develop from scratct to undertand how gaussian naive Bayes Classifier work
+
+2.we used the cleveland database to understand the performance of the algorithm
+
+
 # gaussian-naive-bayes-classifier
 
 
